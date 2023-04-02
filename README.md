@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Rhohart Martel and this is all about me!
+
 <!--
 **hart-martel/hart-martel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
